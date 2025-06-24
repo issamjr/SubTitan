@@ -68,11 +68,7 @@ python subtitan.py -d example.com -o subdomains.txt
 
 ---
 
-### 📸 Screenshot
 
-> _(Add your screenshot here later by uploading to `/assets/`)_
-
----
 
 ### 📦 Download as ZIP
 
